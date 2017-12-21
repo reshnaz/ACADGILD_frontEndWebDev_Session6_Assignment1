@@ -1,5 +1,13 @@
 # S6A1
 
+Note: A new folder is created called "Binding" under which all the assignment related file are present.
+
+## Problem Statement
+1. In a component create two variables title and name.
+2. Assign values to the variable in ngOnInit() .Bind the values to HTML page with help
+of string interpolation.
+3. HTML page should display the values which are in the component
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
 
 ## Development server

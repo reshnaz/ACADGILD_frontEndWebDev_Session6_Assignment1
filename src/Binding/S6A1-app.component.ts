@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './S6A1-app.component.html'
 })
 // This is our new component with variables "title" and "name".
-export class S6A1Component {
+export class S6A1Component implements OnInit{
   title : string;
   name : string;
 
